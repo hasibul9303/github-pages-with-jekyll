@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my GitHub Page
 
-I'm glad you are here. I plan to talk about ...
+I am Hasibul Islam. This is my GitHub page which I have created during a course in Github Learning Lab
